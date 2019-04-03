@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mall.product:api:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mall/product/api/unknown/api-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mall/product/api/unknown/api-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mall/product/api/unknown/api-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
